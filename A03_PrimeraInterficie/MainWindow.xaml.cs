@@ -24,5 +24,10 @@ namespace A03_PrimeraInterficie
         {
             InitializeComponent();
         }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            
+        }
     }
 }
